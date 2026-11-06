@@ -1,0 +1,21 @@
+{
+  "name": "actividad_bit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danielo2601/Actividad_BIT_01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Danielo2601/Actividad_BIT_01/issues"
+  },
+  "homepage": "https://github.com/Danielo2601/Actividad_BIT_01#readme"
+}
